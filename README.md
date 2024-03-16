@@ -22,27 +22,16 @@ The following **optional** features are implemented:
 - [ ] A counter displays the user's current and longest streak of correct responses
 - [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
-The following **additional** features are implemented:
-
-* [] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 https://www.loom.com/share/bf2aa348f1d7470db8d412a96fb72b98?sid=0c933fb2-a011-4aa5-b40a-45ed4f5d9295
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
 ## Notes
 
 Describe any challenges encountered while building the app.
-The main issue wsa getting the feeback of question if its correct or incorrect when user type the answere but it wass fun to figure it out.
+The main issue was getting the feeback of question if its correct or incorrect when user type the answer but it was fun to figure it out.
 ## License
 
     Copyright [2024] [Jubhit Chaudhary]
