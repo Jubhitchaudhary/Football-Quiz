@@ -42,7 +42,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-The main issue wsa getting the feeback of question if its coorect or incorrect when user type the answere but it wass fun to figure it out.
+The main issue wsa getting the feeback of question if its correct or incorrect when user type the answere but it wass fun to figure it out.
 ## License
 
     Copyright [2024] [Jubhit Chaudhary]
