@@ -31,7 +31,7 @@ https://www.loom.com/share/bf2aa348f1d7470db8d412a96fb72b98?sid=0c933fb2-a011-4a
 ## Notes
 
 Describe any challenges encountered while building the app.
-The main issue was getting the feeback of question if its correct or incorrect when user type the answer but it was fun to figure it out.
+The main issue was getting the feedback of question if its correct or incorrect when user type the answer but it was fun to figure it out.
 ## License
 
     Copyright [2024] [Jubhit Chaudhary]
